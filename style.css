@@ -1,0 +1,39 @@
+body {background-color:rgb(65, 65, 65);}
+h1 {text-align: center;
+color: rgb(255, 255, 255);
+border-style: solid;
+border-color: rgb(14, 12, 12);
+}
+h2 {text-align: center;
+color:rgb(255, 255, 255);
+border-style: solid;
+border-color: rgb(14, 12, 12);
+}
+h3 {text-align: center;
+color:rgb(255, 255, 255);
+border: 5px;
+border-color: rgb(14, 12, 12);
+}
+#ima1 {margin-left: 25%;
+border-color: rgb(78, 78, 71);
+border-width: 10px;
+border-style: groove;
+width:50% ;
+}
+#ima2 {margin-left: 37%;
+    border-color: rgb(78, 78, 71);
+    border-width: 10px;
+    border-style: groove;
+    width:26% ;
+    }
+ h4 {text-align: center;
+    color:rgb(255, 255, 255);
+    border: 5px;
+    border-color: rgb(14, 12, 12);
+}
+#ima3 {margin-left: 37%;
+    border-color: rgb(78, 78, 71);
+    border-width: 10px;
+    border-style: groove;
+    width:26% ;
+    }
